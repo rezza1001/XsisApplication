@@ -1,0 +1,216 @@
+[
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMTBmNzU0NWMtN2EwMi00OTU0LTg5NWMtNjQzZTM4M2NmOWM5XkEyXkFqcGdeQXVyNDAzNjgzNw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action"
+            ],
+            "imdbid": "tt9854058",
+            "title": "Shadows",
+            "imdbrating": 7.6,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "A young low-level drug dealer is reunited with his estranged mom and uncle to protect him when a ruthless drug kingpin puts a hit on him."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BM2Y5MWRkNjQtOGM3NS00NzBmLTlkYjAtOTgyOGNlNGEwNWZlXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_UY268_CR9,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "imdbid": "tt8426926",
+            "title": "Shamshera",
+            "imdbrating": 7.4,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "Set in the 1800s pre-Independence India, the film is an Indian adaptation of Howard Pyle's \"Merry Adventures of Robin Hood\"."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BYjhiY2U2ZGUtN2FjZS00NjE3LWE0OGItYzlhYjk0OTI1YTM0XkEyXkFqcGdeQXVyMTA0OTY2NjQ1._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action",
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt7599146",
+            "title": "Sound of Freedom",
+            "imdbrating": 8.3,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "The story of Tim Ballard (Jim Caviezel), a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMjM5NjY3ODU5Nl5BMl5BanBnXkFtZTgwMDQ0NjEzNTE@._V1_UY268_CR3,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action"
+            ],
+            "imdbid": "tt2766800",
+            "title": "Grainne Uaile: The Movie",
+            "imdbrating": 7.7,
+            "released": 2022,
+            "synopsis": "The life of Grainne Uaile, the 16th century Pirate Queen from Ireland.",
+            "type": "movie"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNTEyYTA5YWYtYmIxYS00NWRlLWExNjMtNjliZmVlZDgxNTBlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "imdbid": "tt1745960",
+            "title": "Top Gun: Maverick",
+            "imdbrating": 8.7,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMTU3MjY4MDU3MF5BMl5BanBnXkFtZTcwMjgxNTcxNw@@._V1_UY268_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "imdbid": "tt1483007",
+            "title": "Killing Angels",
+            "imdbrating": 8.9,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "A group of elitists recruit a freelance agent in an attempt to bring down the worlds biggest human trafficking network."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNWFlMDBhMzUtMTc1YS00OWYwLWE5YzUtNDY2Y2JhNWM2MmFlXkEyXkFqcGdeQXVyMzA1ODY4NjQ@._V1_UY268_CR43,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action",
+                "Comedy",
+                "Crime"
+            ],
+            "imdbid": "tt11633442",
+            "title": "Soygun Oyunu: Büyük Vurgun",
+            "imdbrating": 8.7,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "A complete heist game. Whatever happens they have to win, a game where they put their loved ones in danger while winning. Two bad cops, a powerful man, a weak link Orhan and two people who can make this amazing plan."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BOTM5Nzc2NDItYTdlZS00YThkLTlhNGItZGJkZDYyZmQyNTllXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR3,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "imdbid": "tt10698680",
+            "title": "K.G.F: Chapter 2",
+            "imdbrating": 8.7,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "The blood-soaked land of Kolar Gold Fields (KGF) Has a new overlord now. Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government..."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMzY4MzdiMzAtMjg2Ny00MzBiLWE0NWEtZWU1OTZkOTc2N2EzXkEyXkFqcGdeQXVyNzQwNzIzMTI@._V1_UY268_CR4,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action",
+                "Horror",
+                "Thriller"
+            ],
+            "imdbid": "tt10426796",
+            "title": "Bridge of the Doomed",
+            "imdbrating": 8.5,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "A group of soldiers are ordered to hold a bridge during a zombie outbreak, but what lives underneath the bridge, proves to be even more deadly."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNDk4OWUxNDAtZDg3NC00MmI1LWEzYjItOGRiZDQwMzRhYmNmXkEyXkFqcGdeQXVyODk4NTI4NDA@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action",
+                "Musical",
+                "Romance"
+            ],
+            "imdbid": "tt10415494",
+            "title": "Ek Love Ya",
+            "imdbrating": 8.6,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "Ek Love Ya is an upcoming Kannada movie directed by Prem. Rakshitha Prem is producing this movie which has debutante Raana playing the lead role. Touted to be a musical love story. Arjun Janya has scored the music for this movie."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMmY4ZjkwMWUtOTA1OS00NmRkLTlmMzMtMGIzM2JiNDMzZmM3XkEyXkFqcGdeQXVyMjg2OTA1Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action"
+            ],
+            "imdbid": "tt10328046",
+            "title": "The Final Sacrifice: Directors Cut",
+            "imdbrating": 8.3,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "The film has never before been seen in the United States, and was prevented from release because of its unorthodox views of the war when it first premiered in 2003."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNzQ4M2MxZGMtYmYyOC00NTM4LTk1YjAtY2ZhODFiOGFhZWRhXkEyXkFqcGdeQXVyMTUzNzc1MzE@._V1_UY268_CR3,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action",
+                "Western"
+            ],
+            "imdbid": "tt5237796",
+            "title": "The Price of Death",
+            "imdbrating": 7,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "A gambler turned bounty hunter transports a high-priced outlaw to his hanging, unaware that they are being chased by a ruthless murderer and his gang of thieves for money hidden by the outlaw."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BZWUxNTZmMmQtMWE1NC00MTBhLWFlNjktMGJiNTY0ZTg5NzRmXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "imdbid": "tt8178634",
+            "title": "RRR",
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in 1920's.",
+            "imdbrating": 8.2
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BYzljNzE0ZDktNWFkOS00ZjE3LWJjNzEtZTE0NmVhNzBmYzE5XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "imdbid": "tt9419884",
+            "title": "Doctor Strange in the Multiverse of Madness",
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "Plot unknown. Sequel to the 2016 Marvel film 'Doctor Strange'.",
+            "imdbrating": 7.3
+        }
+    ]

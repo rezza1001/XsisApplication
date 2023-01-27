@@ -1,0 +1,1073 @@
+[
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BMTBmNzU0NWMtN2EwMi00OTU0LTg5NWMtNjQzZTM4M2NmOWM5XkEyXkFqcGdeQXVyNDAzNjgzNw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action"
+    ],
+    "imdbid": "tt9854058",
+    "title": "Shadows",
+    "imdbrating": 7.6,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": "A young low-level drug dealer is reunited with his estranged mom and uncle to protect him when a ruthless drug kingpin puts a hit on him."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BM2Y5MWRkNjQtOGM3NS00NzBmLTlkYjAtOTgyOGNlNGEwNWZlXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_UY268_CR9,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Adventure"
+    ],
+    "imdbid": "tt8426926",
+    "title": "Shamshera",
+    "imdbrating": 7.4,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": "Set in the 1800s pre-Independence India, the film is an Indian adaptation of Howard Pyle's \"Merry Adventures of Robin Hood\"."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BYTcwMmM4MDgtMWVmOS00ZjBhLTg2M2EtOTRjZTAxZjhlMTRjXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR108,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "imdbid": "tt7529298",
+    "title": "Attack",
+    "imdbrating": 7.3,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BMjM5NjY3ODU5Nl5BMl5BanBnXkFtZTgwMDQ0NjEzNTE@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action"
+    ],
+    "imdbid": "tt2766800",
+    "title": "Grainne Uaile: The Movie",
+    "imdbrating": 7.7,
+    "released": 2022,
+    "synopsis": "The life of Grainne Uaile, the 16th century Pirate Queen from Ireland.",
+    "type": "movie"
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNTEyYTA5YWYtYmIxYS00NWRlLWExNjMtNjliZmVlZDgxNTBlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "imdbid": "tt1745960",
+    "title": "Top Gun: Maverick",
+    "imdbrating": 8.7,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": "After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BMTU3MjY4MDU3MF5BMl5BanBnXkFtZTcwMjgxNTcxNw@@._V1_UY268_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbid": "tt1483007",
+    "title": "Killing Angels",
+    "imdbrating": 8.9,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": "A group of elitists recruit a freelance agent in an attempt to bring down the worlds biggest human trafficking network."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNWFlMDBhMzUtMTc1YS00OWYwLWE5YzUtNDY2Y2JhNWM2MmFlXkEyXkFqcGdeQXVyMzA1ODY4NjQ@._V1_UY268_CR43,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "imdbid": "tt11633442",
+    "title": "Soygun Oyunu: Büyük Vurgun",
+    "imdbrating": 8.7,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": "A complete heist game. Whatever happens they have to win, a game where they put their loved ones in danger while winning. Two bad cops, a powerful man, a weak link Orhan and two people who can make this amazing plan."
+  },
+      {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BYjhiY2U2ZGUtN2FjZS00NjE3LWE0OGItYzlhYjk0OTI1YTM0XkEyXkFqcGdeQXVyMTA0OTY2NjQ1._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "imdbid": "tt7599146",
+    "title": "Sound of Freedom",
+    "imdbrating": 8.3,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": "The story of Tim Ballard (Jim Caviezel), a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BMjlkN2E4OWMtYjM0NS00NjUyLWI3NGUtYWNhNzA3ZTRhMjVmXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY268_CR15,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action"
+    ],
+    "imdbid": "tt11623854",
+    "title": "Varayan",
+    "imdbrating": 8.8,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BMjRmNmE5NmYtMGNkNS00YThkLWIzOGEtZDAyOGZlZWRlMjQ2XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "imdbid": "tt11580914",
+    "title": "Yaadhum Oore Yaavarum Kelir",
+    "imdbrating": 7,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNDE1NGQwNjMtYzBkYy00MDlkLWJkYzQtZWZhMzc5MDllMWMyXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_UY268_CR6,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "imdbid": "tt11423818",
+    "title": "Pawankhind",
+    "imdbrating": 8.7,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNDA3ZGM2ODktMGFhZi00NjY4LTg3MDAtNGQzMzg3ZmIxNWJkXkEyXkFqcGdeQXVyMzc4ODk0NTc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "imdbid": "tt11379988",
+    "title": "James",
+    "imdbrating": 7.8,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BYTMzZGM3MmEtMGJkNy00ZDA0LThjN2MtMTY4ZWEzYTE2MzRjXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "imdbid": "tt11216522",
+    "title": "Joshua: Imai Pol Kaka",
+    "imdbrating": 7.4,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BOTM5Nzc2NDItYTdlZS00YThkLTlhNGItZGJkZDYyZmQyNTllXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbid": "tt10698680",
+    "title": "K.G.F: Chapter 2",
+    "imdbrating": 8.7,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": "The blood-soaked land of Kolar Gold Fields (KGF) Has a new overlord now. Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government..."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BMzY4MzdiMzAtMjg2Ny00MzBiLWE0NWEtZWU1OTZkOTc2N2EzXkEyXkFqcGdeQXVyNzQwNzIzMTI@._V1_UY268_CR4,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "imdbid": "tt10426796",
+    "title": "Bridge of the Doomed",
+    "imdbrating": 8.5,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": "A group of soldiers are ordered to hold a bridge during a zombie outbreak, but what lives underneath the bridge, proves to be even more deadly."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNDk4OWUxNDAtZDg3NC00MmI1LWEzYjItOGRiZDQwMzRhYmNmXkEyXkFqcGdeQXVyODk4NTI4NDA@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Musical",
+      "Romance"
+    ],
+    "imdbid": "tt10415494",
+    "title": "Ek Love Ya",
+    "imdbrating": 8.6,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": "Ek Love Ya is an upcoming Kannada movie directed by Prem. Rakshitha Prem is producing this movie which has debutante Raana playing the lead role. Touted to be a musical love story. Arjun Janya has scored the music for this movie."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BMmY4ZjkwMWUtOTA1OS00NmRkLTlmMzMtMGIzM2JiNDMzZmM3XkEyXkFqcGdeQXVyMjg2OTA1Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action"
+    ],
+    "imdbid": "tt10328046",
+    "title": "The Final Sacrifice: Directors Cut",
+    "imdbrating": 8.3,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": "The film has never before been seen in the United States, and was prevented from release because of its unorthodox views of the war when it first premiered in 2003."
+  },
+  {
+    "imageurl": [],
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "imdbid": "tt11023754",
+    "title": "Home Minister",
+    "imdbrating": 7.7,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNmQzYzY3YTgtM2IxNC00ZGM1LTkwMjEtMzQ0MTgyZjQ3ZTllXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR7,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "imdbid": "tt7822416",
+    "title": "Ranga",
+    "imdbrating": 7,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNzQ4M2MxZGMtYmYyOC00NTM4LTk1YjAtY2ZhODFiOGFhZWRhXkEyXkFqcGdeQXVyMTUzNzc1MzE@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Western"
+    ],
+    "imdbid": "tt5237796",
+    "title": "The Price of Death",
+    "imdbrating": 7,
+    "released": 2022,
+    "type": "movie",
+    "synopsis": "A gambler turned bounty hunter transports a high-priced outlaw to his hanging, unaware that they are being chased by a ruthless murderer and his gang of thieves for money hidden by the outlaw."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BMjQ2ZDk2NTMtYzg0ZC00NmIyLTk2ZTQtOTkzYzI1ZjM4YTJkXkEyXkFqcGdeQXVyMjA4OTI5NDQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "imdbid": "tt11468258",
+    "title": "FIR",
+    "released": 2022,
+    "type": "movie",
+    "synopsis": "",
+    "imdbrating": 7.1
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BZjE4MTdhNGYtMjA1My00ODU1LTg0NzQtZDdiMmY0Y2E4NzY1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY268_CR9,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbid": "tt1877830",
+    "title": "The Batman",
+    "released": 2022,
+    "type": "movie",
+    "synopsis": "The plot is unknown.",
+    "imdbrating": 8
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BZWUxNTZmMmQtMWE1NC00MTBhLWFlNjktMGJiNTY0ZTg5NzRmXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "imdbid": "tt8178634",
+    "title": "RRR",
+    "released": 2022,
+    "type": "movie",
+    "synopsis": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in 1920's.",
+    "imdbrating": 8.2
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BYzljNzE0ZDktNWFkOS00ZjE3LWJjNzEtZTE0NmVhNzBmYzE5XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbid": "tt9419884",
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "released": 2022,
+    "type": "movie",
+    "synopsis": "Plot unknown. Sequel to the 2016 Marvel film 'Doctor Strange'.",
+    "imdbrating": 7.3
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BZjk0MzFiYzEtOGVmNS00MjI1LTgxY2MtNDE4OWYzNDdiN2VlXkEyXkFqcGdeQXVyMzUzMzgxNA@@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "imdbid": "tt8354164",
+    "title": "Princess Principal Crown Handler: Chapter 1",
+    "imdbrating": 7.8,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "In London at the end of the 19th century and after the events of Princess Principal (2017). The Empire is increasing counter-spy actions in the wake of the incident, and finds Control, the ..."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BMTZiMjk0OTctZTA0My00MjExLWE1MjUtMWNiNGU4MWZhMmE3XkEyXkFqcGdeQXVyNzAyMzcyODY@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdbid": "tt8302382",
+    "title": "Krack",
+    "imdbrating": 7,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BMjQxMzE1YWItNzA0ZS00NDVhLWFhMzUtMzkyZTFmN2NlNjYwXkEyXkFqcGdeQXVyMTE0Mjc5NTQx._V1_UY268_CR194,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbid": "tt8269248",
+    "title": "Vakeel Saab",
+    "imdbrating": 7,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BZjU3OWZlYmItMTM0Yy00ZjlmLTg0YTUtMGUzY2EyZGVjNjMyXkEyXkFqcGdeQXVyNzQ3NDU1ODQ@._V1_UY268_CR43,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "imdbid": "tt7822758",
+    "title": "Kaadan",
+    "imdbrating": 8,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "Based on real life events of conservation of elephants ."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BOWZlZThlOWQtOWY2ZS00ZmM0LTljMTYtODk5YzgzZmY4YmRkXkEyXkFqcGdeQXVyODU4MjAxOQ@@._V1_UY268_CR99,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "imdbid": "tt7549502",
+    "title": "Rafaela",
+    "imdbrating": 8,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "A teenage gang leader seeks revenge against the thug that stole all their money and left her pregnant."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BN2VlYzZmZjYtZmM3ZS00YTc5LWIxNDItNDAwYjdhNzA2ZDVmXkEyXkFqcGdeQXVyNjkyOTU3MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "imdbid": "tt6281426",
+    "title": "Life's Mapped Out",
+    "imdbrating": 7,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "Susan Forster suffers a life-changing event that causes her whole family to re-examine their very lives."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNzE5YzVjZmEtNGYwZi00YjljLWExMzYtZjlkYTk4NDc0MmI5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdbid": "tt6264654",
+    "title": "Free Guy",
+    "imdbrating": 7.1,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "A bank teller discovers that he's actually an NPC inside a brutal, open world video game."
+  },
+  {
+    "imageurl": [],
+    "genre": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "imdbid": "tt4244994",
+    "title": "The Last Duel",
+    "imdbrating": 7.4,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire by challenging him to a duel."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNGEwMDU2ZDQtZmE5Zi00YjFiLWIwYWItOGMyMzY5MzljOWU3XkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_UY268_CR1,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "imdbid": "tt2382320",
+    "title": "No Time to Die",
+    "imdbrating": 7.3,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNmYwM2RmZTEtNDEwZi00ZDE2LWJlZjAtNjlhZDI1NDM3ODg4XkEyXkFqcGdeQXVyMDUxMTMyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "imdbid": "tt12226660",
+    "title": "Hidden Dragon",
+    "imdbrating": 8.5,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "In a magical undersea world where dragons rule and humans are feared, a naive young dragon forms an uneasy alliance with the sea's greatest enemy - a human girl."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BZTFlNjViMGUtMzFiZi00NmM0LWIwM2QtMTRkMWM2MTg3ZDNkXkEyXkFqcGdeQXVyMTAzNzc2NzQx._V1_UY268_CR11,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdbid": "tt12169664",
+    "title": "Zero Nine",
+    "imdbrating": 8.1,
+    "released": 2021,
+    "synopsis": "A detective abandoned his daughter right after his wife's death for a governmental mission. This made her daughter angry. He risks his life to find his daughters missing best friend in ...",
+    "type": "movie"
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BM2RlMmE3OWYtOTk4MC00ZmU0LTg4NzEtMGQyOTVhOGM3MmE1XkEyXkFqcGdeQXVyMTE1MzAyMDE4._V1_UY268_CR43,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "imdbid": "tt12032938",
+    "title": "Muddy",
+    "imdbrating": 7,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "Muddy is an adventurous thrilling movie that has several breathtaking moves which was brilliantly done by our Artists without any dupe. The mud race is choreographed by the Director, Dr. Pragabhal."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNWY5NmQ4MjYtZmZkMy00ZDMwLTkxMGYtOWNlNWQ5ZjcxZjhjXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_UY268_CR16,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "imdbid": "tt11991748",
+    "title": "Rurouni Kenshin: Final Chapter Part II - The Beginning",
+    "imdbrating": 7.4,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "Kenshin Himura goes up against a mysterious weapons dealer named Enishi Yukishiro. He controls the underworld of China. The secret of Kenshin Himura's \"Jujishou\" is also revealed."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BZDM5ZDM0ZDItZDgwYy00MWFmLTg2MjYtZDQ4OGViYTY3ODQ1XkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_UY268_CR4,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "imdbid": "tt11809034",
+    "title": "Rurouni Kenshin: Final Chapter Part I - The Final",
+    "imdbrating": 7.2,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "Kenshin's past catches up to him causing the destruction of Akabeko Restaurant, which was Kenshin's favorite place to eat. There, he finds a note with the word \"Junchu\" on it."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BY2MxODJjYzMtMjBkYy00ZjNmLWJiYjItNmIzOGJiMzk3YTEwXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR11,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "imdbid": "tt11648514",
+    "title": "Narappa",
+    "imdbrating": 7.9,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BY2E3NDZkYWUtNGFiOS00NTQ5LWE0NTEtYmQ2OTMwNmU3MzU3XkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdbid": "tt11640072",
+    "title": "Thupparivaalan 2",
+    "imdbrating": 7.9,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BZTExNGU5ZjItNTU3Ni00NmM3LWI4OGQtODU4MjUyOTUyMTNhXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdbid": "tt11640022",
+    "title": "Chakra",
+    "imdbrating": 7,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNGNkOWFjM2UtMmExNi00MmNlLThhMTYtNjk1MTM5MmU2NzhjXkEyXkFqcGdeQXVyNzk2NTI5MTk@._V1_UY268_CR4,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbid": "tt11612202",
+    "title": "Culprit",
+    "imdbrating": 7.5,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "The continuous attacks of the members of a Colombian band called \"The Cauca\", take an important role in the Costa del Sol. The inspector, Samuel Alarcón, must resolve the case of the ..."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BOWE5MGY1MjEtZWExYS00MTM3LTgwNzItMzhiMWJhMWZlOTA0XkEyXkFqcGdeQXVyMTU5MjAyODQ@._V1_UY268_CR124,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "imdbid": "tt1160419",
+    "title": "Dune",
+    "imdbrating": 8.1,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "Feature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BZDBjYTMxNzEtMTFiYi00ZTAyLThiZmQtY2NlN2M5MmI1ODcyXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR16,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "imdbid": "tt11581174",
+    "title": "Karnan",
+    "imdbrating": 8.1,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [],
+    "genre": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "imdbid": "tt11580854",
+    "title": "Sarpatta Parambarai",
+    "imdbrating": 8.6,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNjRjMjgwMTEtMjZkMC00MTBlLThkMDUtYmQzNjNmMWYyZDlkXkEyXkFqcGdeQXVyNjIwNTc5MDI@._V1_UY268_CR43,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdbid": "tt11421000",
+    "title": "EkDe Ek",
+    "imdbrating": 8.5,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BZWU4NGI1OGUtMWFmMC00NmZlLWI5MDktZjg2ODliMzg5N2E5XkEyXkFqcGdeQXVyMTk3NDMwOTc@._V1_UY268_CR86,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Comedy"
+    ],
+    "imdbid": "tt11306926",
+    "title": "Badava Rascal",
+    "imdbrating": 7.8,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "Badava Rascal is a romantic comedy entertainer movie directed by Shankar and produced by Dhananjay . The movie cast includes Daali Dhananjay and Amrutha Iyengar in the main lead roles while Vasuki Vaibhav scored music."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BM2M3MGI2YjUtNTA5MC00MDRiLWE5ZjctNWQ2MjFmYzgwNjE2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY268_CR4,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "War"
+    ],
+    "imdbid": "tt10940890",
+    "title": "Müfreze",
+    "imdbrating": 7,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [],
+    "genre": [
+      "Action",
+      "Animation",
+      "Sci-Fi"
+    ],
+    "imdbid": "tt10915840",
+    "title": "Space Battleship Yamato 2205: The New Voyage",
+    "imdbrating": 7,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BZTBmZmVkNjItMzA3Zi00MTU0LWIzYTQtNWRlMjBjNjAwNTc0XkEyXkFqcGdeQXVyNjEwMTkyNzg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbid": "tt10805906",
+    "title": "Vex",
+    "imdbrating": 7,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "A detective who lost everything that he loves. A gang member who was a product of the school to prison pipeline and seeks redemption from his past. Two men from different sides of the law ..."
+  },
+  {
+    "imageurl": [],
+    "genre": [
+      "Action",
+      "Animation",
+      "Comedy"
+    ],
+    "imdbid": "tt10766468",
+    "title": "Gintama: The Final",
+    "imdbrating": 8.5,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BZDA1MWQ0ZDAtY2ZhMC00NDY4LTkzNTQtZjcwNWZhYTU5N2ZhXkEyXkFqcGdeQXVyNTk4NzEzNjQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "imdbid": "tt10488710",
+    "title": "Operation Sundarbans",
+    "imdbrating": 8,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BYjJhMmI2YjAtYjBkNC00ZGY1LWI3MGEtOGI3N2JlM2I4NTNkXkEyXkFqcGdeQXVyNjM0NDc1MzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdbid": "tt10415600",
+    "title": "Salaga",
+    "imdbrating": 7.1,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BZGJjNTViMDgtZjMwZS00ZDNmLWE1NDItZDFlOTBlYzA3MDkwXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR9,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "imdbid": "tt10295212",
+    "title": "Shershaah",
+    "imdbrating": 8.4,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "Vikram Batra Biopic: Siddharth Malhotra to Star in 'Sher Shah' Captain in Karan Johar's Film."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BMDEzZDA5NmEtODE3ZC00MjNiLTlhYmMtZmRkYTIzYjZjYmQxXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR8,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action"
+    ],
+    "imdbid": "tt10050150",
+    "title": "Vaa Deal",
+    "imdbrating": 9.7,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": ""
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BZTZjZjJjZTMtMTgyYi00M2UyLTliOTUtOWNlMTY3Y2ZkNGFjXkEyXkFqcGdeQXVyMzYxNDQ3MjU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Comedy"
+    ],
+    "imdbid": "tt6830356",
+    "title": "Love Gods from Planet Zero",
+    "imdbrating": 8,
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "In a dystopian future, two loser bag-men get in over their heads smuggling illegal stem cells for black market researchers."
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BZGFkYmFkYzUtMGEwNS00NTlkLWIyZTgtY2EyOWUwZTEwMjg2XkEyXkFqcGdeQXVyMjMyNzcxNTc@._V1_UY268_CR43,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "imdbid": "tt4139928",
+    "title": "The Legend of Maula Jatt",
+    "imdbrating": 8.6,
+    "released": 2021,
+    "synopsis": "A stylized update to the 1979 action film in which a local hero takes on a brutal gang leader.",
+    "type": "movie"
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNzZkMjQwNTYtOWU5My00NTliLTg5NGYtMGJhMDRiYTE2MmZjXkEyXkFqcGdeQXVyNzc3NTUwNTk@._V1_UY268_CR9,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Drama",
+      "Family"
+    ],
+    "imdbid": "tt12605348",
+    "title": "A Father's Fight",
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "",
+    "imdbrating": 7
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BYWVmMWY2ZTktZTlhNC00YTMyLTgzNWYtNjYxMjc3MWE1NTA2L2ltYWdlXkEyXkFqcGdeQXVyODY3MzUwMg@@._V1_UY268_CR4,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "imdbid": "tt5295032",
+    "title": "Plaga Zombie: American Invasion",
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "In 1997 an Alien race attempted an invasion in a small city of Argentina by fertilizing the human population turning them into blood thirsty zombies. The plan almost worked until 3 unlikely...\n                    See full synopsis",
+    "imdbrating": 8.7
+  },
+  {
+    "imdbid": "tt12845262",
+    "genre": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "released": 2021,
+    "title": "Operation Olipporu",
+    "type": "movie",
+    "synopsis": "Two friends, on the verge of bankruptcy, decides to rob a finance firm. Coincidentally, a team of professional hit men also robs the same place at the same time.",
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BOTcyYjgyOWYtNzczNi00ZDU1LTg3ZDEtNmE4OGZiZThjNmQyXkEyXkFqcGdeQXVyMTE0MjcxMjI0._V1_UY268_CR9,0,182,268_AL_.jpg"
+    ],
+    "imdbrating": 8.7
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/180x268/film-173410679._CB468515592_.png"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbid": "tt10872600",
+    "title": "Spider-Man: No Way Home",
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "A continuation of Spider-Man Far From Home",
+    "imdbrating": 8.3
+  },
+  {
+    "imageurl": [],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdbid": "tt11083552",
+    "title": "Wrath of Man",
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "The plot follows H, a cold and mysterious character working at a cash truck company responsible for moving hundreds of millions of dollars around Los Angeles each week.",
+    "imdbrating": 7.1
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNzY5ZDFjZWUtODk0Zi00MGI4LWI1YzAtNWQwMGFmZGY1OWFhXkEyXkFqcGdeQXVyMTgxOTU2MTE@._V1_UY268_CR4,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbid": "tt12260790",
+    "title": "Sith Wars: Episode I - The Return of the Sith",
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "Emperor Palpatine reigns the galaxy, along with his pupil Darth Vader. he is obsessed with destroying what remains of the Jedi, and gathers several Sith warriors to take revenge.",
+    "imdbrating": 8
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BOTM5N2U1NDMtMDgzYS00NThiLTgzMjktNzNhODYzYWJiYTdhXkEyXkFqcGdeQXVyNDYwMTkwNTI@._V1_UY268_CR16,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdbid": "tt6334354",
+    "title": "The Suicide Squad",
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "Plot is unknown.",
+    "imdbrating": 7.2
+  },
+  {
+    "imageurl": [],
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbid": "tt7888964",
+    "title": "Nobody",
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "A bystander who intervenes to help a woman being harassed by a group of men becomes the target of a vengeful drug lord.",
+    "imdbrating": 7.4
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNjFlZmM1NGYtMDA2Mi00ZjRlLTg1MGEtOWMwNjY1NDIxNzIxXkEyXkFqcGdeQXVyMjEzNjQ3ODQ@._V1_UY268_CR8,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "History",
+      "Western"
+    ],
+    "imdbid": "tt8667502",
+    "title": "The Wilderness Road",
+    "released": 2021,
+    "type": "movie",
+    "imdbrating": 7.4
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BMzliODAyMjYtYzAxYy00ZGE5LTk5NmItYjE3N2RlZmNlNTBiXkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbid": "tt9376612",
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "The movie, based on Marvel Comics, will focus on Shang-Chi; 'The Master of Kung-Fu'.",
+    "imdbrating": 7.4
+  },
+  {
+    "imdbid": "tt12767902",
+    "genre": [
+      "Action",
+      "Animation"
+    ],
+    "released": 2021,
+    "title": "Spider-Man 4 Fan Film",
+    "type": "movie",
+    "imdbrating": 7
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BOWQwYmM4ZjktODlkMi00ZTAyLWI5NWYtOTU4ODI5MjBlOWM2XkEyXkFqcGdeQXVyODQ0MjEzMTA@._V1_UY268_CR117,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "imdbid": "tt5109280",
+    "title": "Raya and the Last Dragon",
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "In a realm known as Lumandra, a re-imagined Earth inhabited by an ancient civilization, a warrior named Raya is determined to find the last dragon.",
+    "imdbrating": 7.3
+  },
+  {
+    "imageurl": [
+      "https://m.media-amazon.com/images/M/MV5BNjY2NGRhZjgtNmZmZi00MzdkLThmZWYtNWZhNmJkODkxZWIyXkEyXkFqcGdeQXVyMzQ3NTE0ODM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbid": "tt12361974",
+    "title": "Zack Snyder's Justice League",
+    "released": 2021,
+    "type": "movie",
+    "synopsis": "Zack Snyder's director's cut of Justice League (2017).",
+    "imdbrating": 8
+  }
+]

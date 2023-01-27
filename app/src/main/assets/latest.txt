@@ -1,0 +1,265 @@
+[
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNDNlYTczNWYtZTBjNS00ODIzLWI5OGQtMWFmZGIwZWM4MGM0XkEyXkFqcGdeQXVyNzA5NjY5MzA@._V1_UY268_CR1,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt9263550",
+            "title": "Rocketry: The Nambi Effect",
+            "imdbrating": 9.8,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "Based by the life of ISRO Scientist Nambi Narayanan who was falsely accused of being a spy and arrested in 1994. Though free, he is still fighting for justice, with those police officials alleged to have falsely implicated him, still free."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMTcxMzI4N2MtYjk2Yy00ZGMxLTgxZTYtNGUzMDhmN2ZiMDU5XkEyXkFqcGdeQXVyMjAyMzYxMDE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Documentary"
+            ],
+            "imdbid": "tt12495406",
+            "title": "American Gadfly",
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "Three teenagers convince former U.S. Senator Mike Gravel to run for president in order to promote an anti-war, anti-corruption, and direct democracy agenda in the 2020 presidential race.",
+            "imdbrating": 9.2
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNDM2NDMzNWYtMWQxZS00ZjBhLThiZjUtMmQ4ZWJhNWUwZmU0XkEyXkFqcGdeQXVyMjQ4MzIyMDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Documentary"
+            ],
+            "imdbid": "tt7470986",
+            "title": "The Guest List",
+            "imdbrating": 9,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "Fates of the innocent and guilty collide on the night of America's deadliest rock concert. It could fairly be said that music and rock culture drew one hundred innocent people to their ..."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNjNhMTYzMTItMDZkOC00NDIwLTkxYTctZDNkNjkwNzRiMTBjXkEyXkFqcGdeQXVyNzk3NDQwOQ@@._V1_UY268_CR91,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Documentary"
+            ],
+            "imdbid": "tt6714754",
+            "title": "The Monster Inside Me",
+            "imdbrating": 9.8,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "A couple turns the cameras towards themselves showing an intimate side of Lyme Disease the world has yet to see. They also take the viewer on a journey researching the truth, lies and ..."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMDY4NGViM2YtMDFkYy00NjIwLTkxYTMtNGM1ZGNhZDI4MTFkXkEyXkFqcGdeQXVyMzU5NzU5OQ@@._V1_UY268_CR4,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Horror"
+            ],
+            "imdbid": "tt6157414",
+            "title": "The Test",
+            "imdbrating": 9.6,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "A horror film about a pilot who is the sole survivor of the plane crash in the deep unknown. He must survive in an isolated building where something evil is waiting."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNDY1ZWFkNjEtNTczZi00Y2E2LWFlYTQtMjJjMWI5NGM4N2YxXkEyXkFqcGdeQXVyMjg4MjMxMTA@._V1_UY268_CR3,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Comedy"
+            ],
+            "imdbid": "tt3406690",
+            "title": "Motorvation",
+            "imdbrating": 9.6,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "When Fatty Melvin takes over his deceased brothers motivational business he soon discovers the power of un-motivation."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BM2Q2MjZjOTQtNzk4Yi00YWFkLWE1NmEtZTRlOGZkNjgwNjc3XkEyXkFqcGdeQXVyMTExNDY1ODQw._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Drama",
+                "Fantasy",
+                "Mystery"
+            ],
+            "imdbid": "tt11613096",
+            "title": "Khudbudi",
+            "imdbrating": 9.2,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "A 26 year old girl life changes by the sudden death of her entire family. During which she started hallucinating about a 10 year old girl, But once what was only hallucinations ,came to be a much bigger part of her life."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BOTRhYzEwNTktOWRlMy00NTk5LWI1NWItMDFjY2VhZjJkNTBhXkEyXkFqcGdeQXVyMjU4NzIwNDQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Comedy",
+                "Thriller"
+            ],
+            "imdbid": "tt11322040",
+            "title": "The Improviser",
+            "imdbrating": 9.3,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "Brett Sugarmen, is a struggling comedian in New York City. He is doing everything he can to be the next BIG thing in this city...and sometimes \"everything\" works."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BZGE5NGQxYTktMjZmYS00NDlhLTg0ZWQtZGUxNDY1ODIxNGQ5XkEyXkFqcGdeQXVyOTU1NzI5MDM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Thriller"
+            ],
+            "imdbid": "tt10928372",
+            "title": "Volkov Origin",
+            "imdbrating": 9.7,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "In the late evening hours, Dr. Angela Perkins finds that she has a new assignment. To dive into the mind of Horton House Penitentiary's newest and most mysterious tenant, Andre Volkov . No ..."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMjMxZThhY2UtYTQ3MS00YWNlLWI0ZTEtZGI3M2M2OGQzMDZhXkEyXkFqcGdeQXVyMTE4ODMyODIz._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Crime",
+                "Horror",
+                "Mystery"
+            ],
+            "imdbid": "tt11143304",
+            "title": "Moksha",
+            "imdbrating": 9.2,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "Moksha is a suspense thriller revolving around a sinister masked man and the mystery around his identity. Who is this Mask-Man? and what he is going to do? lies the crux of the film. With a..."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BYWI4OWE3MGMtNGIxYi00ZmRlLWFlZDEtNTZmYjkzYTY4OTc2XkEyXkFqcGdeQXVyMTExNTUwNTc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Documentary"
+            ],
+            "imdbid": "tt10954110",
+            "title": "2nd Unit: Invisible Action Stars",
+            "imdbrating": 9.1,
+            "released": 2022,
+            "synopsis": "A detailed look into a key element of action filmmaking, the second unit. We go behind the scenes and allow some of the biggest names in Hollywood to show us why the men and women of second...",
+            "type": "movie"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMGZhNmM3YWItZjdiYi00ZmZjLTgxNTktNjQ4NWMyNTZhNmZkXkEyXkFqcGdeQXVyMjgyNTgwOTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Documentary",
+                "Drama"
+            ],
+            "imdbid": "tt10445282",
+            "title": "Amy's Victory Dance",
+            "imdbrating": 10,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "Amy's right leg is completely crushed. Her first thought, \"Am I ever going to dance again?\" Her second thought was 'If I survive the night there will be a Victory Dance.'"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMTk1MzM3MWUtMDZiMy00OGI3LWFiMjQtZGE3ZjQ0ZDM4NmEwXkEyXkFqcGdeQXVyMTM3Njk3NzI@._V1_UY268_CR4,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Drama"
+            ],
+            "imdbid": "tt7628180",
+            "title": "Chitrakut",
+            "imdbrating": 9.5,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "Set against a lush Western Indian landscape during the monsoon season, CHITRAKUT delicately sets the tone, interweaving the lives of Saloni, Shaan, Debu, Alisha and Kim - all converging at ..."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BYzMyYjRiOTktNGU1ZS00ZjRjLTllNzYtZjQ5MTAyMmE1MGY5XkEyXkFqcGdeQXVyMzU4Njg2NzU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Comedy",
+                "Documentary"
+            ],
+            "imdbid": "tt7381620",
+            "title": "Once Upon a Time in the Wild",
+            "imdbrating": 9.4,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "Fed up with modern day life; Simon Burgess and Susan Moran quit their jobs, sell all of their possessions and move into the woods."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMjM5MjQ0MTQyN15BMl5BanBnXkFtZTgwNjUxNTM3MzE@._V1_UY268_CR12,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Drama"
+            ],
+            "imdbid": "tt4257166",
+            "title": "Sons 2 the Grave",
+            "imdbrating": 9.5,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "When can y'all get this movie"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMDY3OTY5ODktYzY1ZS00M2NkLTkzN2EtN2FhNjVlNjA1NTkyXkEyXkFqcGdeQXVyMjExMjI5NzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Comedy",
+                "Drama",
+                "Family"
+            ],
+            "imdbid": "tt2823386",
+            "title": "The 4 Corners",
+            "imdbrating": 9.2,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "An intimate group of family and friends face life changing decisions over the course of one important weekend"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BYzg4YjFkYWUtMDJkNi00ZDE5LWJlN2EtNTA2MDRjZWUzNTk0XkEyXkFqcGdeQXVyMTkxMjE2Mzc@._V1_UY268_CR147,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Fantasy",
+                "Horror"
+            ],
+            "imdbid": "tt12373754",
+            "title": "Fanga",
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "An unstable farm girl becomes prisoner to a flesh-eating beast to cure her father's illness.",
+            "imdbrating": 9.1
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BYjY1ZDJiMzktNzlhOS00NTY1LThmOGQtODlkMGVlMzllMGVhXkEyXkFqcGdeQXVyOTQ5MTI0MzE@._V1_UY268_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Drama"
+            ],
+            "imdbid": "tt9253740",
+            "title": "Bulldog",
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "The lively, irrational-symbiotic relationship between single parent Toni (Lana Cooper) and her son Bruno (Julius Nitschkoff) is turned upside down when Hannah (Karin Hanczewski) Toni's Ex- ...",
+            "imdbrating": 9.4
+        }
+    ]
