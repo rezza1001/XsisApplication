@@ -63,6 +63,7 @@ class LatestView(context: Context?, attrs: AttributeSet?) : MyView(context, attr
         latestAdapter.setOnSelectedListener(object : LatestAdapter.OnSelectedListener{
             override fun onSelected(movie: Movie) {
                 showDetail(movie)
+                onShowDetailListener?.onShowDetail(movie)
             }
         })
     }
@@ -76,5 +77,13 @@ class LatestView(context: Context?, attrs: AttributeSet?) : MyView(context, attr
     private fun showDetail(movie: Movie){
         val dialog = DetailDialog(context as Activity?)
         dialog.show(movie)
+    }
+
+    private  var onShowDetailListener: OnShowDetailListener ?= null
+    fun setOnShowDetailListener(onShowDetailListener: OnShowDetailListener){
+        this.onShowDetailListener = onShowDetailListener
+    }
+    interface OnShowDetailListener{
+        fun onShowDetail(movie: Movie)
     }
 }

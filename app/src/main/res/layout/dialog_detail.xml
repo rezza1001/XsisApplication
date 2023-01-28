@@ -93,17 +93,34 @@
                 android:layout_height="1dp"/>
             <androidx.core.widget.NestedScrollView
                 android:layout_below="@+id/viw_separtor"
-                android:layout_marginStart="20dp"
-                android:layout_marginEnd="20dp"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
-                <TextView
-                    android:id="@+id/txvw_description"
-                    android:textSize="14sp"
-                    android:textColor="@color/black"
-                    android:fontFamily="@font/roboto"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"/>
+               <LinearLayout
+                   android:orientation="vertical"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content">
+                   <TextView
+                       android:id="@+id/txvw_description"
+                       android:textSize="14sp"
+                       android:layout_marginStart="20dp"
+                       android:layout_marginEnd="20dp"
+                       android:textColor="@color/black"
+                       android:fontFamily="@font/roboto"
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"/>
+                   <View
+                       android:layout_marginTop="20dp"
+                       android:layout_marginBottom="15dp"
+                       android:layout_marginStart="20dp"
+                       android:layout_marginEnd="20dp"
+                       android:background="#E3EDFF"
+                       android:layout_width="match_parent"
+                       android:layout_height="1dp"/>
+                   <com.rezza.xsisapp.view.LatestView
+                       android:id="@+id/latest_view"
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"/>
+               </LinearLayout>
             </androidx.core.widget.NestedScrollView>
 
 
