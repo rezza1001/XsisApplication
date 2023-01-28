@@ -1,13 +1,14 @@
 package com.rezza.xsisapp.view
 
 import android.annotation.SuppressLint
+import android.app.Activity
 import android.content.Context
 import android.util.AttributeSet
-import android.util.Log
 import com.github.islamkhsh.CardSliderIndicator
 import com.github.islamkhsh.CardSliderViewPager
 import com.rezza.xsisapp.R
 import com.rezza.xsisapp.adapter.BannerAdapter
+import com.rezza.xsisapp.dialog.DetailDialog
 import com.rezza.xsisapp.model.Movie
 import com.rezza.xsisapp.utility.AssetReader
 import org.json.JSONArray
@@ -32,6 +33,7 @@ class BannerSliderView(context: Context?, attrs: AttributeSet?) : MyView(context
     }
 
     override fun initListener() {
+
     }
 
     @SuppressLint("NotifyDataSetChanged")
@@ -57,9 +59,19 @@ class BannerSliderView(context: Context?, attrs: AttributeSet?) : MyView(context
             }
         }
         bannerAdapter.notifyDataSetChanged()
-        Log.d("BannerSliderView","DATA "+listBanner.size)
+
+        bannerAdapter.setOnSelectedListener(object :BannerAdapter.OnSelectedListener{
+            override fun onSelected(movie: Movie) {
+                showDetail(movie)
+            }
+
+        })
     }
 
+    private fun showDetail(movie: Movie){
+        val dialog = DetailDialog(context as Activity?)
+        dialog.show(movie)
+    }
 
 
 }

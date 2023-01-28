@@ -14,14 +14,14 @@
         android:layout_height="60dp">
 
         <RelativeLayout
-            android:id="@+id/rvly_menu"
+            android:id="@+id/rvly_back"
             android:clickable="true"
             android:focusable="true"
             android:background="?attr/selectableItemBackground"
             android:layout_width="60dp"
             android:layout_height="match_parent">
             <ImageView
-                android:src="@drawable/ic_menu_24"
+                android:src="@drawable/arrow_back"
                 android:layout_centerInParent="true"
                 android:layout_width="24dp"
                 android:layout_height="24dp"
@@ -45,6 +45,7 @@
         </RelativeLayout>
 
         <TextView
+            android:id="@+id/txvw_title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
@@ -53,42 +54,63 @@
             android:shadowRadius="2"
             android:shadowColor="@color/primaryDark"
             android:shadowDy="4"
-            android:layout_toEndOf="@+id/rvly_menu"
+            android:layout_toEndOf="@+id/rvly_back"
             android:layout_toStartOf="@+id/rvly_search"
             android:fontFamily="@font/roboto_bold"
-            android:text="List Movie"
+            android:text="Find Movie"
             android:textColor="@color/white" />
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card_search"
+            app:cardUseCompatPadding="true"
+            app:cardCornerRadius="4dp"
+            android:visibility="gone"
+            app:cardElevation="3dp"
+            app:cardBackgroundColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/imvw_back"
+                    android:padding="12dp"
+                    android:src="@drawable/arrow_back"
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent"/>
+                <ImageView
+                    android:id="@+id/imvw_clear"
+                    android:padding="12dp"
+                    android:layout_alignParentEnd="true"
+                    android:src="@drawable/clear_con"
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent"/>
+
+                <EditText
+                    android:id="@+id/edtx_search"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"
+                    android:hint="Search"
+                    android:textColorHint="#80000000"
+                    android:layout_toEndOf="@+id/imvw_back"
+                    android:layout_toStartOf="@+id/imvw_clear"
+                    android:background="#00ffffff"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+
+            </RelativeLayout>
+
+        </androidx.cardview.widget.CardView>
     </RelativeLayout>
 
-    <androidx.core.widget.NestedScrollView
-        android:layout_below="@+id/rvly_header"
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcvw_data"
+        android:layout_below="@id/rvly_header"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"/>
 
-        <LinearLayout
-            android:orientation="vertical"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
 
-            <com.rezza.xsisapp.view.BannerSliderView
-                android:id="@+id/view_slider"
-                android:layout_marginTop="15dp"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
-
-            <com.rezza.xsisapp.view.LatestView
-                android:id="@+id/popular_view"
-                android:layout_marginTop="10dp"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
-            <com.rezza.xsisapp.view.ActionView
-                android:id="@+id/action_view"
-                android:layout_marginTop="10dp"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
-
-        </LinearLayout>
-    </androidx.core.widget.NestedScrollView>
 
 
 
